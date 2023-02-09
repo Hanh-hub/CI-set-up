@@ -12,6 +12,8 @@ class AnyAppTests: XCTestCase {
 
     func testExample() throws{
         XCTAssertEqual(2 + 2, 4)
+        XCTAssertEqual(3 + 3, 6)
     }
+   
 
 }
